@@ -1,0 +1,12 @@
+----------------STEPS TO RUN MY PROGRAM--------------------
+
+1) open Linux terminal and move to directory with makefile, project2.c, project2.h, and student2.c
+
+2) in the terminal type make and enter
+
+3) in the terminal after code is compiled run ./p2
+
+4) enter the number of messages, probabilities of loss, corruption, or out of order, average transmission time, 
+output trace, randomization, and bidirectional
+
+
